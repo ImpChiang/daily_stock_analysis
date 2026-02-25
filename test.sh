@@ -68,6 +68,7 @@ check_python() {
     info "Python版本: $(python3 --version)"
 }
 
+
 # 检查依赖
 check_deps() {
     info "检查依赖..."
